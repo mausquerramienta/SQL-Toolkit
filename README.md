@@ -22,8 +22,9 @@ This index represents the logical progression of database skills. Click on any d
 | :--- | :--- | :--- |
 | **01** | [`Fundamental-Queries`](./01-fundamental-queries) | Data extraction, result grouping (`GROUP BY`), mathematical aggregates (`COUNT`, `AVG`), and sorting limits. |
 | **02** | [`Relational-Joins`](./02-relational-joins) | Resolving 1:N and N:M relationships utilizing directional table junctions (`INNER`, `LEFT`, and `RIGHT JOIN`). |
-| **03** | [Subqueries & Aggregations](./03-subqueries-and-aggregations) | Nested Subqueries, Derived Tables, `AVG()`, Dynamic Filtering |
-| **04** | [`Complex-Subqueries`](./04-complex-subqueries) | Advanced data extraction using nested `SELECT` statements and derived tables. |
+| **03** | [`Subqueries & Aggregations`](./03-subqueries-and-aggregations) | Nested Subqueries, Derived Tables, `AVG()`, Dynamic Filtering |
+| **04** | [`Common Table Expressions`](./04-common-table-expressions) | `WITH` clause, Chained CTEs, Multi-Joins, Modular Queries |
+| **05** | [`Complex-Subqueries`](./05-complex-subqueries) | Advanced data extraction using nested `SELECT` statements and derived tables. |
 
 ---
 *Note: Each directory contains its own SQL scripts (schema, data, and queries) along with specific documentation detailing the relational logic applied.*
